@@ -8,3 +8,6 @@ Pre-Reqs
   
   - Terraform
       Install via a package manager like homebrew to save you some time
+
+
+This Lab will create a single EC2 T.2 Micro Instance running Ubunuu, VPC with 2 public subnets, a Security Group with SSH and Splunk Ports open, and a key pair.
